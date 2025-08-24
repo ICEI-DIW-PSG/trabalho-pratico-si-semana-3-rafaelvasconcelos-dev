@@ -134,3 +134,14 @@ main {
     margin-bottom: 1rem;
     color: #444;
 }
+
+/* Agenda */
+.agenda {
+    background: white;
+    padding: 1rem;
+    border-radius: 12px;
+    box-shadow: 0 5px 20px rgba(0,0,0,0.08);
+    text-align: center;
+    color: #666;
+    border-top: 4px solid #764ba2;
+}
