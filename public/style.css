@@ -14,7 +14,7 @@ header {
     background: linear-gradient(35deg, white 15%, rgb(255, 166, 0) );
     padding: 0.5%;
     display: flex;
-    border-bottom: 1px solid rgba(0, 0, 0, 0.445);
+    border-bottom: 4px solid rgba(117, 116, 116, 0.445);
 }
 
 .logo {
@@ -76,3 +76,12 @@ nav a:hover {
     border-color: rgba(255, 255, 255, 0.164);
     box-shadow: 0 4px 15px rgba(0,0,0,0.2);
 }
+
+/* Main */
+
+main {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem 1rem;
+}
+
