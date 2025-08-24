@@ -11,7 +11,7 @@ body {
 
 /* Header */
 header {
-    background: linear-gradient(35deg, white 15%, #ff956b, #feca57);
+    background: linear-gradient(12deg, white 40%, #ff9100);
     padding: 0.5%;
     display: flex;
     border-bottom: 4px solid rgba(117, 116, 116, 0.445);
@@ -87,15 +87,15 @@ main {
 
 /* Banner */
 .banner {
-    background: linear-gradient(45deg, #3542f3, #fed157);
+    background: linear-gradient(45deg, #ff6b6b, #feca57);
     color: white;
     text-align: center;
-    padding: 2rem 1rem;
+    padding: 2rem 2rem;
     border-radius: 15px;
-    margin-bottom: 3rem;
+    margin-bottom: 2rem;
     font-size: 2rem;
     font-weight: bold;
-    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 10px 30px rgba(0,0,0,0.1);
     position: relative;
     overflow: hidden;
 }
