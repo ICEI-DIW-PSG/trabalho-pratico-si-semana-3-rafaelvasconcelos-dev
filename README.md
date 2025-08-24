@@ -10,15 +10,15 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Rafael Vasconcelos de Assis
+- Matricula: 898374
+- Proposta de projeto escolhida: Organizações e Equipes
+- Breve descrição sobre seu projeto: Este projeto consiste no desenvolvimento de uma aplicação web para a Escola Livre de Artes – Arena da Cultura, com o objetivo de tornar mais acessíveis as informações sobre a escola, cursos, oficinas e eventos da instituição.
 
 
 ## Print do(s) wireframe(s) criado
 
-<<  COLOQUE A IMAGEM AQUI >>
+![wireframe da página inicial](wireframe.png)
 
 
 ## Print da home-page criada
