@@ -105,3 +105,12 @@ main {
     height: auto;
     border-radius: 15px;
 }
+
+/* Seções do main abaixo do banner */
+
+.container-feed-agenda {
+    display: flex;
+    gap: 2rem;
+    margin-bottom: 3rem;
+}
+
